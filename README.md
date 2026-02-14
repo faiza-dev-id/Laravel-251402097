@@ -1,5 +1,5 @@
 # Laravel Project - Faiza
 
-Nama: Faiza Elfaz  
+Nama: Muhammad Faiza Elfaz  
 NIM: 251402097  
 
